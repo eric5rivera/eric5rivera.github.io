@@ -14,10 +14,9 @@ summary: I planned, coordinated and lead the creation of furniture for a homeles
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/buyWood.jpg">
+  <img class="ui image" src="../images/instruction.jpg">
+  <img class="ui image" src="../images/sanding.jpg">
 </div>
 
 Kumuhonua is a transitional living center located at Kalaeloa, Barbers Point for those who are homeless or at-risk for homelessness. I will lead a team in the assembly and completion of shelf units for the shelter to implement in their housing units.
