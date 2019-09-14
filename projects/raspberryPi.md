@@ -18,7 +18,7 @@ My introduction to the Raspberry Pi platform was in a college physics class wher
 
 The first thing I set up on the Pi was [Pi-hole](https://pi-hole.net). I learned about how the DNS works in a networking environment As a result of this endeavor, I no longer get annoying ads when scrolling through blogs, news sites and even while shopping. I’ve learned how to set up a device completely over SSH.
 
-##How does it work?
+## How does it work?
 When a user goes to a website, the address is sent first to the Raspberry Pi for DNS lookup. Pi-hole then returns the domains that serve the web content, but intentionally leaves out any content that comes from a domain that serves ads.
 
 <hr>
