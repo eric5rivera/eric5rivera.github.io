@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/internship.jpeg
+title: IT Internship
+permalink: projects/ITInternship
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-12-27
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Information Technology
+  - Certification
+  - Internship
+summary: My first internship in the field of Information Technology.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
