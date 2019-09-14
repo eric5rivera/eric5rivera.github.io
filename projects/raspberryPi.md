@@ -1,18 +1,19 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/raspberries.jpeg
+title: Raspberry Pi
+permalink: projects/raspberryPi
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-06-11
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Raspberry Pi
+  - Networking
+  - Home Lab
+summary: Using the Raspberry Pi, I set up DNS add blocking and a controller for networking devices.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/piHole.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
