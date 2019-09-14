@@ -20,25 +20,22 @@ summary: I planned, coordinated and lead the creation of furniture for a homeles
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Kumuhonua is a transitional living center located at Kalaeloa, Barbers Point for those who are homeless or at-risk for homelessness. I will lead a team in the assembly and completion of shelf units for the shelter to implement in their housing units.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Within the housing units, storage and organizational methods are limited. The addition of shelves will enhance and provide capability in organizing the belongings of tenants.
+To keep the costs of the materials down, various hardware stores were surveyed for their lumber offerings and prices as the lumber would make up the bulk of the budget.
+I used a tape measure to visualize and finalize the dimensions of the shelf design.
 
-Here is some code that illustrates how we read values from the line sensors:
+## What went well?
+Volunteers under my leadership who were helping with the construction process were able to follow my instructions and guidance.
+The plans that I had for the shelf came together exactly how I had wanted it to. The shelves were of appropriate size and proportions.
+A variety of tools including those for cutting, bracing and holding were available to me; This made the construction process more streamlined for my volunteers to do.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+## Challenges
+Some scouts had no experience in carpentry or painting whatsoever. When painting, providing instruction to a group of beginners on the technique of painting was challenging. Many of the skills needed for this project are related to carpentry and painting. Providing instruction to get their building and painting skills up to par.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Quality control was another area of complexity for me. I had to teach the scouts what kind work was acceptable and how to correct imperfections.
 
+## Conclusion
 
-
+I learned that people have different learning styles. Some were most effective when guided in a verbal manner. Others were better when they were lead with example and demonstration. It is the responsibility of the leader to ensure that the information being conveyed is bein
