@@ -3,14 +3,14 @@ layout: project
 type: project
 image: images/shelving.jpeg
 title: Eagle Scout Project
-permalink: projects/micromouse
+permalink: projects/eagleScoutProject
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-17
 labels:
   - BoyScouts
   - CommunityService
   - Leadership
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: I planned, coordinated and lead the creation of furniture for a homeless shelter.
 ---
 
 <div class="ui small rounded images">
