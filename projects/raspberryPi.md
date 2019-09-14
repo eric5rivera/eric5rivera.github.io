@@ -22,7 +22,18 @@ The first thing I set up on the Pi was [Pi-hole](https://pi-hole.net). I learned
 When a user goes to a website, the address is sent first to the Raspberry Pi for DNS lookup. Pi-hole then returns the domains that serve the web content, but intentionally leaves out any content that comes from a domain that serves ads.
 
 <hr>
+
+
+## Saving money with the Raspberry Pi
+For my home network, I was upgrading my router, switch and access points to those from the [Ubiquiti Unif](https://unifi-network.ui.com) line. These devices require a "Cloud Key" for the devices to work togethor. Did I buy this Cloud Key?
+
 <img class="ui image" src="{{ site.baseurl }}/images/cloudKey.png">
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+For $96, I decided to find a more economical solution. By implementing the Raspberry Pi alternative, I avoided having to pay $90+ on a device that performs the same functions that my raspberry Pi now does.
+
+Through this experience, I've learned how to be more effective with the limited resources that I have. I now understand that cheaper alternatives can be implemented if one has the right technical background.
+
+## What did I do with the money I saved?
+With the money I saved, I did what any smart home-lab-doer would do... buy another Raspberry Pi.
+For the future, I plan to dabble in distributed computing by using an array of Raspberry Pi's as nodes in a cluster.
 
