@@ -10,7 +10,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui small left floated image" src="../images/eslint.png">
+<img class="ui small left floated image" src="../images/semantic.png">
 
 ## Why even bother?
 
