@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ISoftware Engineering
+title: Learning beyond web applications
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:
