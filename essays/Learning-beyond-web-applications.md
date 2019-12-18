@@ -10,7 +10,7 @@ labels:
   - Frameworks
 ---
 
-<img class="ui tiny left circular floated image" src="../images/eslint.png">
+<img class="ui big left floated image" src="../images/webApp.png">
 
 
 The following is what I’ve gained insight to after the completion of my Manoa Marketplace application. You can read more about my Craigslist-like application here. Although these concepts were exercised in my quest to develop a web application, they are beautifully applicable in all types of software development, from building a compiler, all the way to programming microcontrollers like the Raspberry Pi.
@@ -26,4 +26,6 @@ I think it would be foolish to consider a project complete without adequate test
 
 ## Conclusion
 These concepts don’t just exist in a vacuum; they exist alongside several other ideas beyond the use case of web applications. I’m truly excited by the versatility of the above tools. I can’t wait to use what I’ve learned again in my future software development projects.
+
+<img class="ui big left floated image" src="../images/tools.jpg">
 
