@@ -10,7 +10,7 @@ labels:
   - Frameworks
 ---
 
-<img class="ui big floated image" src="../images/webApp.png">
+<img class="ui medium floated image" src="../images/webApp.png">
 
 
 The following is what I’ve gained insight to after the completion of my Manoa Marketplace application. You can read more about my Craigslist-like application here. Although these concepts were exercised in my quest to develop a web application, they are beautifully applicable in all types of software development, from building a compiler, all the way to programming microcontrollers like the Raspberry Pi.
@@ -24,9 +24,10 @@ Getting several developers to work together effectively can be a project on its 
 ## Testing
 I think it would be foolish to consider a project complete without adequate testing. If building a web app for the public, it’s of vital importance to understand what the public really thinks about your application. Attributes for evaluation include functionality, ease of use and much more. Having real user-feedback allows the project to be augmented in a way that is meaningful. Additionally, thorough testing is necessary to be aware of those pesky bugs. Finding that a bug exists is often more challenging than fixing it, so it is critical that testing is conducted.
 
-<img class="ui big center floated image" src="../images/tools.jpg">
+
 
 ## Conclusion
+<img class="ui medium center floated image" src="../images/tools.jpg">
 These concepts don’t just exist in a vacuum; they exist alongside several other ideas beyond the use case of web applications. I’m truly excited by the versatility of the above tools. I can’t wait to use what I’ve learned again in my future software development projects.
 
 
