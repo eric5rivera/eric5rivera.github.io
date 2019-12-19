@@ -5,35 +5,30 @@ image: images/uhmm-landing.png
 title: Manoa Marketplace
 permalink: projects/Manoa-Marketplace
 # All dates must be YYYY-MM-DD format!
-date: 2019-06-11
+date: 2019-12-17
 labels:
   - Web Application
   - Software Development
   - Meteor
-summary: Using the Raspberry Pi, I set up DNS add blocking and a controller for networking devices.
+summary: Putting my team software development skills to the test, I helped to build a marketplace web app for UH Manoa students.
 ---
-My introduction to the Raspberry Pi platform was in a college physics class where we had a mini hackathon using the device. Detailed below, are my experiences with the device at home in my home-lab. This affordable device has been the starting ground for my learning of basic networking concepts.
 
-<img class="ui image" src="{{ site.baseurl }}/images/piHole.png">
+### Buy, sell, and trade with others in the University of Hawaii
 
-The first thing I set up on the Pi was [Pi-hole](https://pi-hole.net). I learned about how the DNS works in a networking environment As a result of this endeavor, I no longer get annoying ads when scrolling through blogs, news sites and even while shopping. I’ve learned how to set up a device completely over SSH.
+The UH Manoa Marketplace is a web application where people within the UH community are able to buy or sell their personal belongings. This application is great for students who travel off island at the end of the school year; instead of renting out a storage container, they can sell their appliances, used textbooks, or any unwanted items. We all know how expensive buying textbooks at the bookstore is, so this is one way to cut down on some of the cost. This application is not just for the students at UH Manoa, but the faculty and staff can also register to buy and sell their belongings.
 
-## How does it work?
-When a user goes to a website, the address is sent first to the Raspberry Pi for DNS lookup. Pi-hole then returns the domains that serve the web content, but intentionally leaves out any content that comes from a domain that serves ads.
+
+## The special sauce
+It may be easy for one to say that this application is just a copy-cat of Craigslist. However, this is not the case. What sets this application apart is the ‘Trending Items’ feature. Because users can earmark items as one of their favorites, the total number of people interested in an item can be displayed. In the ‘Trending Items’ tab, users can see the items that are in demand.
+
+<img class="ui image" src="{{ site.baseurl }}/images/trending.png">
+
+## What I worked on
+In this project, I worked on developing the schema to hold the data for our application. I wanted to design something that was easy to understand for the purpose of collaboration, maintenance and future extensibility.
+User testing was a big part in enabling us to set appropriate milestone tasks. I conducted real user testing with students of University of Hawaii.
 
 <hr>
 
-
-## Saving money with the Raspberry Pi
-For my home network, I was upgrading my router, switch and access points to those from the [Ubiquiti Unif](https://unifi-network.ui.com) line. These devices require a "Cloud Key" for the devices to work togethor. Did I buy this Cloud Key?
-
-<img class="ui image" src="{{ site.baseurl }}/images/cloudKey.png">
-
-For $96, I decided to find a more economical solution. By implementing the Raspberry Pi alternative, I avoided having to pay $90+ on a device that performs the same functions that my raspberry Pi now does.
-
-Through this experience, I've learned how to be more effective with the limited resources that I have. I now understand that cheaper alternatives can be implemented if one has the right technical background.
-
-## What did I do with the money I saved?
-With the money I saved, I did what any smart home-lab-doer would do... buy another Raspberry Pi.
-For the future, I plan to dabble in distributed computing by using an array of Raspberry Pi's as nodes in a cluster.
-
+## What this project means to me
+This project has marked the beginning of an entirely new tech stack for me. Everything from the integrated development environment to the frameworks to the issue driven project management has been just learned at a rapid pace and then put to use through this project.
+You can read more about the concepts I’ve exercised in this project [here](https://eric5rivera.github.io/essays/Learning-beyond-web-applications.html).
