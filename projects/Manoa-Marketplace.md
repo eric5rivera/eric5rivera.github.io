@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/raspberries.jpeg
-title: Raspberry Pi
-permalink: projects/raspberryPi
+image: images/uhmm-landing.png
+title: Manoa Marketplace
+permalink: projects/Manoa-Marketplace
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-11
 labels:
-  - Raspberry Pi
-  - Networking
-  - Home Lab
+  - Web Application
+  - Software Development
+  - Meteor
 summary: Using the Raspberry Pi, I set up DNS add blocking and a controller for networking devices.
 ---
 My introduction to the Raspberry Pi platform was in a college physics class where we had a mini hackathon using the device. Detailed below, are my experiences with the device at home in my home-lab. This affordable device has been the starting ground for my learning of basic networking concepts.
