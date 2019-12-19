@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landingG.png
+image: images/uhmm-landing.png
 title: Manoa Marketplace
 permalink: projects/Manoa-Marketplace
 # All dates must be YYYY-MM-DD format!
