@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhmm-landing.png
+image: images/landingG.png
 title: Manoa Marketplace
 permalink: projects/Manoa-Marketplace
 # All dates must be YYYY-MM-DD format!
@@ -18,6 +18,8 @@ summary: Putting my team software development skills to the test, I helped to bu
 The UH Manoa Marketplace is a web application where people within the UH community are able to buy or sell their personal belongings. This application is great for students who travel off island at the end of the school year; instead of renting out a storage container, they can sell their appliances, used textbooks, or any unwanted items. We all know how expensive buying textbooks at the bookstore is, so this is one way to cut down on some of the cost. This application is not just for the students at UH Manoa, but the faculty and staff can also register to buy and sell their belongings.
 
 [Github Page](https://uh-manoa-marketplace.github.io/)
+
+
 [Live Deployment](https://uh-manoa-marketplace.meteorapp.com/)
 
 ## The special sauce
