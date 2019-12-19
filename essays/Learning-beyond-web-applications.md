@@ -13,7 +13,7 @@ labels:
 <img class="ui medium floated image" src="../images/webApp.png">
 
 
-The following is what I’ve gained insight to after the completion of my Manoa Marketplace application. You can read more about my Craigslist-like application [here](https://eric5rivera.github.io/projects/Manoa-Marketplace). Although these concepts were exercised in my quest to develop a web application, they are beautifully applicable in all types of software development, from building a compiler, all the way to programming microcontrollers like the Raspberry Pi.
+The following is what I’ve gained insight to after the completion of my Manoa Marketplace application. You can read more about my Craigslist-like application [here](https://eric5rivera.github.io/projects/Manoa-Marketplace.html). Although these concepts were exercised in my quest to develop a web application, they are beautifully applicable in all types of software development, from building a compiler, all the way to programming microcontrollers like the Raspberry Pi.
 
 ## User Interface Frameworks
 A classic example of efficiency is when using existing a framework. Why reinvent the wheel when there are excellent examples readily available for modification and deployment? Utilizing a framework allows developers to view the project in a manner that focuses on the bigger picture. You can read more about frameworks in an essay I wrote [here](https://eric5rivera.github.io/essays/Frameworks.html).
