@@ -3,9 +3,9 @@
     "name": "Eric Rivera",
     "label": "Student",
     "picture": "https://eric5rivera.github.io/images/EricPng.png",
-    "email": "erivera9@hawaii.edu",
-    "phone": "808-753-6134",
-    "website": "https://eric5rivera.github.io",
+    "email": "me@ericmrivera.com",
+    "phone": "(716) 575-5703",
+    "website": "ericmrivera.com",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
@@ -61,7 +61,7 @@
       "keywords": [
         "Windows",
         "MacOS",
-        "Fedora Linux",
+        "Ubuntu",
         "Git/GitHub"
       ]
     }
@@ -107,6 +107,12 @@
       "title": "Outstanding Chemistry Student",
       "date": "2018",
       "awarder": "American Chemical Society",
+      "summary": ""
+    },
+    {
+      "title": "Associate Member of the Free Software Foundation",
+      "date": "2020",
+      "awarder": "Free Software Foundation",
       "summary": ""
     }
   ],
