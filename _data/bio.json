@@ -93,11 +93,21 @@
   "volunteer": [
     {
       "organization": "GenCyber Camp",
+      "website": "https://www.fsf.org/",
+      "position": "Associate Member",
+      "startDate": "2020-09-07",
+      "endDate": "Present",
+      "summary": "Aiding students in cyber security projects",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Free Software Foundation",
       "website": "https://gencyber-hi.org",
       "position": "Camp Volunteer",
       "startDate": "2018-04-07",
       "endDate": "2018-04-10",
-      "summary": "Aiding students in cyber security projects",
+      "summary": "Promote computer user freedom and defend the rights of all software users.",
       "highlights": [
       ]
     }
@@ -107,12 +117,6 @@
       "title": "Outstanding Chemistry Student",
       "date": "2018",
       "awarder": "American Chemical Society",
-      "summary": ""
-    },
-    {
-      "title": "Associate Member of the Free Software Foundation",
-      "date": "2020",
-      "awarder": "Free Software Foundation",
       "summary": ""
     }
   ],
