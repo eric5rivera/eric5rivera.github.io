@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "computer science",
+      "name": "Computer Science",
       "keywords": [
       ]
     },
     {
-      "name": "raspberry pi",
+      "name": "Information Technology",
       "keywords": [
       ]
     },
     {
-      "name": "home lab",
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
@@ -59,9 +59,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
-        "MacOS",
         "Ubuntu",
+        "CentOS",
         "Git/GitHub"
       ]
     }
@@ -75,6 +74,14 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
+        "Algorithms",
+        "Software Engineering I & II",
+        "Data Networks",
+        "Operating Systems",
+        "Calculus IV",
+        "Linear Algebra and Differential Equations",
+        "Numerical Analysis",
+        "Probability",
       ]
     }
   ],
