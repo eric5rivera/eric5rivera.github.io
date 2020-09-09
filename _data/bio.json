@@ -92,27 +92,33 @@
   ],
   "volunteer": [
     {
-      "organization": "GenCyber Camp",
+      "organization": "Free Software Foundation",
       "website": "https://www.fsf.org/",
       "position": "Associate Member",
       "startDate": "2020-09-07",
       "endDate": "Present",
-      "summary": "Aiding students in cyber security projects",
+      "summary": "Promote computer user freedom and defend the rights of all software users.",
       "highlights": [
       ]
     },
     {
-      "organization": "Free Software Foundation",
+      "organization": "GenCyber Camp",
       "website": "https://gencyber-hi.org",
       "position": "Camp Volunteer",
       "startDate": "2018-04-07",
       "endDate": "2018-04-10",
-      "summary": "Promote computer user freedom and defend the rights of all software users.",
+      "summary": "Aiding students in cyber security projects.",
       "highlights": [
       ]
     }
   ],
   "awards": [
+    {
+      "title": "Eagle Scout",
+      "date": "2018",
+      "awarder": "Boy Scouts of America",
+      "summary": "Eagle Scout is the highest achievement or rank attainable in the Scouts BSA program of the Boy Scouts of America. Since its inception in 1911, only four percent of Scouts have earned this rank after a lengthy review process."
+    },
     {
       "title": "Outstanding Chemistry Student",
       "date": "2018",
