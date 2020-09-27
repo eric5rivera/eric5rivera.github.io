@@ -1,4 +1,4 @@
----
+	---
 layout: essay
 type: essay
 title: What smart questions do you have?

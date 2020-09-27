@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Learning beyond web applications
+title: Learning Beyond Web Applications
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:
