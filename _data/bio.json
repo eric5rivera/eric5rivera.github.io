@@ -91,9 +91,19 @@
       "position": "IT Intern",
       "website": "https://bchdesign.com",
       "startDate": "2018-12-12",
-      "endDate": "Present",
+      "endDate": "2020-09-30t",
       "summary": "",
       "highlights": [
+      ]
+    },
+    {
+      "company": "Bowers + Kubota",
+      "position": "IT Support Technician",
+      "website": "https://www.bowersandkubota.com/",
+      "startDate": "2020-10-01",
+      "endDate": "Present",
+      "summary": "Provide technical assistance and support related to computer systems, hardwware, and software.",
+      "highlights": ["Backup and restoration of information systems critical data", "Migrate from Windows 7 to Windows 10"
       ]
     }
   ],
