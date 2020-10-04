@@ -110,6 +110,16 @@
   ],
   "work": [
     {
+      "company": "Leeward Community College",
+      "position": "Natural Science Tutor",
+      "website": "http://www2.leeward.hawaii.edu/lrc/",
+      "startDate": "2018-12-12",
+      "endDate": "2020-09-30t",
+      "summary": "Explain course concepts, coach and guide students in solving problems or practicing skills for the following courses",
+      "highlights": ["Java programming", "C/C++ programming", "General Physics", "General Chemistry"
+      ]
+    },
+    {
       "company": "Belt Collins Hawaii LLC",
       "position": "IT Intern",
       "website": "https://bchdesign.com",
@@ -147,7 +157,7 @@
       "position": "Member",
       "startDate": "2020-09-10",
       "endDate": "Present",
-      "summary": "Defending digital privacy, free speech, and innovation",
+      "summary": "Defend digital privacy, free speech, and innovation",
       "highlights": [
       ]
     },
