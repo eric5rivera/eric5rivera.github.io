@@ -52,16 +52,26 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "React",
+        "React Native",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Operating Systems",
       "level": "",
       "keywords": [
         "Ubuntu",
-        "CentOS",
-        "Git/GitHub"
+        "Windows",
+        "MacOS",
+      ]
+    },
+    {
+      "name": "Toolsets",
+      "level": "",
+      "keywords": [
+        "Git/GitHub",
+        "Wireshark",
       ]
     }
   ],
@@ -74,11 +84,11 @@
       "endDate": "2019-09-01",
       "gpa": "4.0",
       "courses": [
-        "Calculus IV",
-        "General Chemistry II",
-        "General Physics III",
+        "Calculus I, II, III & IV",
+        "General Chemistry I & II",
+        "General Physics I, II, & III",
         "Program Structure",
-        "Discrete Mathematics for Computer Science II",
+        "Discrete Mathematics for Computer Science I & II",
       ]
     },
     {
@@ -95,7 +105,6 @@
         "Operating Systems",
         "Linear Algebra and Differential Equations",
         "Numerical Analysis",
-        "Probability",
       ]
     }
   ],
