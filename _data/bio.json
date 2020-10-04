@@ -67,18 +67,32 @@
   ],
   "education": [
     {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Natural Science: Concentration in Information and Communication Technology",
+      "studyType": "A.S.",
+      "startDate": "2016-09-01",
+      "endDate": "2019-09-01",
+      "gpa": "4.0",
+      "courses": [
+        "Calculus IV",
+        "General Chemistry II",
+        "General Physics III",
+        "Program Structure",
+        "Discrete Mathematics for Computer Science II",
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2017-09-01",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "gpa": "4.0",
+      "gpa": "3.6",
       "courses": [
         "Algorithms",
         "Software Engineering I & II",
         "Data Networks",
         "Operating Systems",
-        "Calculus IV",
         "Linear Algebra and Differential Equations",
         "Numerical Analysis",
         "Probability",
@@ -93,7 +107,7 @@
       "startDate": "2018-12-12",
       "endDate": "2020-09-30t",
       "summary": "",
-      "highlights": [
+      "highlights": ["Migrate from Windows 7 to Windows 10", "Automate tasks such as user onboarding, file access control and file server maintenance using Powershell",
       ]
     },
     {
@@ -103,7 +117,7 @@
       "startDate": "2020-10-01",
       "endDate": "Present",
       "summary": "Provide technical assistance and support related to computer systems, hardwware, and software.",
-      "highlights": ["Backup and restoration of information systems critical data", "Migrate from Windows 7 to Windows 10"
+      "highlights": ["Backup and restoration of information systems critical data", 
       ]
     }
   ],
