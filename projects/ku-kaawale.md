@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/uhmm-landing.png
+image: images/mapview.png
 title: Ku Ka'awale - Visualizing Campus Occupancy during COVID-19
 permalink: projects/ku-kaawale
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-10
 labels:
-  - Mobile Application
+  - Web Application
   - Software Development
-  - React Native
-summary: Bowfolios reimplimented as a cross-platform native mobile app.
+  - Data Visualization
+summary: Visualize the occupancy of UH Manoa campus to aid in social distancing
 ---
 
 ## What the hecc is the HACC?
