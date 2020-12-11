@@ -26,7 +26,7 @@ The data comes from the hundreds of wireless access points (AP) throughout the M
 ## Our Solution
 
 This is the landing page of our web application.
-<img class="ui medium right floated rounded image" src="../images/landing.png">
+<img class="ui image" src="../images/landing.png">
 
 The main attraction of our web app can be seen here. A dashboard consisting of the campus map, and stats surrounding.
 <img class="ui medium right floated rounded image" src="../images/mapview.png">
