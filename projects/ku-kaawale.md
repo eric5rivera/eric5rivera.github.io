@@ -14,6 +14,7 @@ summary: Visualize the occupancy of UH Manoa campus to aid in social distancing
 ---
 
 ## What the hecc is the HACC?
+[Hawaii Annual Code Challenge](https://hacc.hawaii.gov/)
 #### Think hackathon, but longer
 While most hackathons usually give participants just a day or just a weekend, the HACC provides participants several weeks to dream up a solution, come up with a plan, learn, and develop to bring their ideas to a proof of concept reality.
 #### Built for and built by the Aloha State
@@ -37,8 +38,12 @@ A historical view is also made available through our application.
 
 The application displays a map of the UHM campus with different viewing perspectives and would allow users to look up the capacities of buildings across campus during certain time frames. Similarly, the application should display warnings such as the most crowded buildings, and allows users to book events through the site, and see if the space that they hope to book is within the campus safety regulations. While the user is booking an event, they are also made aware of events that may be occurring at the time frame they want. 
 
+### [Devpost](https://devpost.com/software/ku-ka-awale#updates)
+### [GitHub](https://github.com/HACC2020/StayAtHomeCoder)
 ## Expectation: Our game plan
 To date, my favorite course I've taken in my college career was ICS 314 - Software Engineering I. In this course, I made it through an entire tech stack, learning many tools to help me during each stage of development. Many of my team mates have also already taken ICS314 and were thus already familiar with the tech stack, techniques, and processess taught in that course. 
+
+We divided our time by weeks, where each week was labaled as a sprint/milestone. Just like we learned in our Software Engineering course, we used issue-driven project management to keep our progress efficient and timely.
 
 The challenge specifications fit the description of a dashboard. Instead of trying to reinvent the wheel, our team decided on looking for a dashboard framework. As a longtime lurker of the r/homelab subreddit,, I often see other homelab enthusiests using Grafana to power their homelab analytics dashboard. I pitched this idea to my team as a potential framwork. Much of week one and two were spend learning about Grafana and determining if it had the right features and modules for our HACC challenge. While much of the analytics and interface were already squared away, we knew that we would still have to solve the big problem of generating a heat map over our geographic map.
 
@@ -54,6 +59,6 @@ To work around this issue, we decided to work on a small subset of the data that
 
 
 ## The dust has settled... Now what?
-While initially it felt like we had failed, I realized that I had to learn a lot throughout those three weeks. 
+While initially it felt like we had failed, I realized that I had to learn a lot throughout those three weeks. I really enjoy reflecting upon this experience, as it brings a broad spectrum of emotions back to mind. From the excitement of starting a big project, to the fear of the unknown, to the stress of the clock ticking, and to the joys of learning new things, this was overall an excellent experience. I cannot put a price on how valuable this experience was for me and the whole team.
 
-HACC 2020 has been my second hackathon I've ever participated in. I'm discouraged to take on my third hackathon. Considering that we are all living during the pandemic, I'm more open to trying national hackathons that are not local to the state of Hawaii. 
+HACC 2020 has been my second hackathon I've ever participated in. I'm encouraged to take on my third hackathon. Considering that we are all living during the pandemic, I'm more open to trying national hackathons that are not local to the state of Hawaii. 
