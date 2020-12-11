@@ -24,15 +24,19 @@ This is my second time participating in the HACC.
 The data comes from the hundreds of wireless access points (AP) throughout the Manoa campus. We can assume that nearly every person on campus has a wireless device that is connected to the campus wifi. As the people roam about the campus, their wireless device will connect to the strongest broadcast (usually the closest access point). 
 
 ## Our Solution
+Ku Ka'awale (to stand apart) is a web application designed to visualize campus occupancy. In light of the COVID-19 pandemic, as well as for the eventual transition back into in-person learning, the application is designed to identify patterns of use in buildings across campus through the sampling of the WiFi management and obtaining anonymized data. This project hopes to recognize patterns of campus activities scheduled and unscheduled, to improve future scheduling, reduce the spread of COVID-19 on campus, and increase the efficiency of campus scheduling procedures and operations.
 
 This is the landing page of our web application.
 <img class="ui image" src="../images/landing.png">
 
 The main attraction of our web app can be seen here. A dashboard consisting of the campus map, and stats surrounding.
-<img class="ui medium right floated rounded image" src="../images/mapview.png">
+<img class="ui image" src="../images/mapview.png">
 
 A historical view is also made available through our application.
-<img class="ui medium right floated rounded image" src="../images/historyview.png">
+<img class="ui image" src="../images/historyview.png">
+
+The application displays a map of the UHM campus with different viewing perspectives and would allow users to look up the capacities of buildings across campus during certain time frames. Similarly, the application should display warnings such as the most crowded buildings, and allows users to book events through the site, and see if the space that they hope to book is within the campus safety regulations. While the user is booking an event, they are also made aware of events that may be occurring at the time frame they want. 
+
 ## Expectation: Our game plan
 To date, my favorite course I've taken in my college career was ICS 314 - Software Engineering I. In this course, I made it through an entire tech stack, learning many tools to help me during each stage of development. Many of my team mates have also already taken ICS314 and were thus already familiar with the tech stack, techniques, and processess taught in that course. 
 
