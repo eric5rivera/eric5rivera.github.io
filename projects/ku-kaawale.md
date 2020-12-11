@@ -13,8 +13,6 @@ labels:
 summary: Bowfolios reimplimented as a cross-platform native mobile app.
 ---
 
-# Ku Ka'awale - Visualizing Campus Occupancy during COVID-19
-
 ## What the hecc is the HACC?
 #### Think hackathon, but longer
 While most hackathons usually give participants just a day or just a weekend, the HACC provides participants several weeks to dream up a solution, come up with a plan, learn, and develop to bring their ideas to a proof of concept reality.
@@ -27,6 +25,14 @@ The data comes from the hundreds of wireless access points (AP) throughout the M
 
 ## Our Solution
 
+This is the landing page of our web application.
+<img class="ui medium right floated rounded image" src="../images/landing.png">
+
+The main attraction of our web app can be seen here. A dashboard consisting of the campus map, and stats surrounding.
+<img class="ui medium right floated rounded image" src="../images/mapview.png">
+
+A historical view is also made available through our application.
+<img class="ui medium right floated rounded image" src="../images/historyview.png">
 ## Expectation: Our game plan
 To date, my favorite course I've taken in my college career was ICS 314 - Software Engineering I. In this course, I made it through an entire tech stack, learning many tools to help me during each stage of development. Many of my team mates have also already taken ICS314 and were thus already familiar with the tech stack, techniques, and processess taught in that course. 
 
