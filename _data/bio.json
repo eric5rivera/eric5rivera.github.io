@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Eric Rivera",
-    "label": "Computer Science Student & IT Professional",
+    "label": "IT Professional",
     "picture": "https://eric5rivera.github.io/images/EricPng.png",
     "email": "me@ericmrivera.com",
     "phone": "(716) 575-5703",
     "website": "ericmrivera.com",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am a recent Computer Science graduate at the University of Hawaii at Manoa. I currently work as an IT professional and aspire to become a Systems Administrator",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,41 +29,50 @@
   },
   "interests": [
     {
-      "name": "Computer Science",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Information Technology",
       "keywords": [
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Computer Science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cybersecurity",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
+      "name": "Certifications",
+      "level": "",
+      "keywords": [
+        "CompTIA A+",
+        "CompTIA Security+",
+        "CompTIA Network+ (Scheduled for July 2021)",
+      ]
+    },
+    {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Powershell",
+        "Bash",
         "Javascript",
-        "React",
-        "React Native",
+        "Java",
+        "Python",
       ]
     },
     {
       "name": "Operating Systems",
       "level": "",
       "keywords": [
-        "Ubuntu",
-        "Windows",
-        "MacOS"
+        "Ubuntu Linux",
+        "Windows 10",
+        "Windows Server 2019",
+        "MacOS", "iOS",
       ]
     },
     {
@@ -96,8 +105,8 @@
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2019-09-01",
-      "endDate": "Present",
-      "gpa": "3.6",
+      "endDate": "2021-07-04",
+      "gpa": "3.56",
       "courses": [
         "Algorithms",
         "Software Engineering I & II",
@@ -126,7 +135,7 @@
       "startDate": "2018-12-12",
       "endDate": "2020-09-30t",
       "summary": "",
-      "highlights": ["Migrate from Windows 7 to Windows 10", "Automate tasks such as user onboarding, file access control and file server maintenance using Powershell"
+      "highlights": ["Provide technical support to end-users", "Develop system images to migrate endpoint workstations to Windows 10", "Author Powershell scripts to automate user onboarding, file access control and server maintenance"
       ]
     },
     {
