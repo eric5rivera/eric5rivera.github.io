@@ -110,8 +110,15 @@
       "courses": [
         "Algorithms",
         "Software Engineering I & II",
-        "Data Networks",
+        
+        "Database Systems I",
         "Operating Systems",
+        "Computer Security and Ethics",
+        "Data Networks",
+        "AI Programming",
+        "Software Quality Assurance",
+        "Artificial Intelligence",
+       
         "Linear Algebra and Differential Equations",
         "Numerical Analysis"
       ]
