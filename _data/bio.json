@@ -137,7 +137,9 @@
       "summary": "",
       "highlights": ["Troubleshot and maintained endpoints, network and systems",
                      "Developed system images to upgarde endpoint systems to Windows 10",
-                     "Authored Powershell scripts to automate user onboarding, file access control and server maintenance"
+                     "Authored Powershell scripts to automate user onboarding, file access control and server maintenance",
+                     "Monitored, analyzed and remediated security events/incidents",
+                     "Created documentation for network configurations and user instructions",
       ]
     },
     {
@@ -147,9 +149,11 @@
       "startDate": "2020-10-01",
       "endDate": "Present",
       "summary": "Provide technical assistance and support related to computer systems, hardwware, and software.",
-      "highlights": ["Supported in more than 550 support tickets",
+      "highlights": ["Supported users in more than 550 support tickets",
+                     "Provided recommendations regarding industry best practices",
                      "Performed routine maintenance, testing and recovery of critical data and systems backups",
                      "Edited and published more than 11 IT security policies",
+                     "Assisted IT Manager with current department projects",
       ]
     }
   ],
