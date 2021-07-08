@@ -135,9 +135,9 @@
       "startDate": "2018-12-12",
       "endDate": "2020-09-30t",
       "summary": "",
-      "highlights": ["Troubleshot and maintained for end-users, network and systems",
-                     "Develop system images to upgarde endpoint systems to Windows 10",
-                     "Author Powershell scripts to automate user onboarding, file access control and server maintenance"
+      "highlights": ["Troubleshot and maintained endpoints, network and systems",
+                     "Developed system images to upgarde endpoint systems to Windows 10",
+                     "Authored Powershell scripts to automate user onboarding, file access control and server maintenance"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "endDate": "Present",
       "summary": "Provide technical assistance and support related to computer systems, hardwware, and software.",
       "highlights": ["Supported in more than 550 support tickets",
-                     "Perform routine maintenance, testing and recovery of critical data and systems backups",
+                     "Performed routine maintenance, testing and recovery of critical data and systems backups",
                      "Edited and published more than 11 IT security policies",
       ]
     }
