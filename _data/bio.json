@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Javascript", "Python", ]
+      "keywords": [ "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git", ]
+      "keywords": [ "MacOS", "Ubuntu", "Git" ]
     }
   ],
   "education": [
