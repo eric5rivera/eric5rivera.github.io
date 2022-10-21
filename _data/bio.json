@@ -9,13 +9,12 @@
     "summary": "I'm currently working as a Cyber Security Analsyt",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "https://github.com/eric5rivera" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/eric5rivera/" }
+      { "network": "github", "username": "eric5rivera", "url": "https://github.com/eric5rivera" },
+      { "network": "linkedin", "username": "eric5rivera", "url": "https://www.linkedin.com/in/eric5rivera/" }
     ]
   },
   "interests": [
     { "name": "Cyber Security" },
-    { "name": "Cloud" },
     { "name": "Amazon Web Services" },
     { "name": "Automation" },
     { "name": "DevSecOps" }
@@ -27,7 +26,18 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git" ]
+      "keywords": [ "AWS", "Ubuntu", "Git" ]
+    },
+    {
+      "name": "Certifications",
+      "keywords": [ "CompTIA A+", 
+                   "CompTIA Network+", 
+                   "CompTIA Security+", 
+                   "CompTIA Server+", 
+                   "AWS Certified Cloud practitioner",
+                   "AWS Certified Solutions Architect - Associate"
+                   "Associate of (ISC)2"
+                  ]
     }
   ],
   "education": [
@@ -35,49 +45,75 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
+      "startDate": "2019-09-01",
+      "endDate": "2021-07-04",
+      "courses": [ "Algorithms", 
+                  "Software Engineering I & II", 
+                  "Database Systems I", 
+                  "Operating Systems", 
+                  "Computer Security and Ethics", 
+                  "Data Networks", 
+                  "AI Programming", 
+                  "Software Quality Assurance", 
+                  "Artificial Intelligence", 
+                  "Linear Algebra and Differential Equations", 
+                  "Numerical Analysis"
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Natural Science: Concentration in Information and Communication Technology",
+      "studyType": "A.S.",
+      "startDate": "2016-09-01",
+      "endDate": "2019-09-01",
+      "courses": [ "Calculus I, II, III & IV",
+                  "General Chemistry I & II",
+                  "General Physics I, II, & III",
+                  "Program Structure",
+                  "Discrete Mathematics for Computer Science I & II"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Referentia Systems Incorporated",
+      "position": "Cybersecurity Analyst",
+      "website": "https://www.referentia.com/",
+      "startDate": "2022-01-03",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "System hardening according to DISA STIGs for Ubuntu and RHEL operating systems",
+        "Support Enclave environment"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Bowers + Kubota",
+      "position": "IT Support Technician",
+      "website": "https://www.bowersandkubota.com/",
+      "startDate": "2020-10-01",
+      "endDate": "2021-12-15",
+      "summary": "Provide technical support for end-users while assisting with the design and implimentation of information systems",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Supported users in more than 550 support tickets",
+        "Provided recommendations regarding industry best practices",
+        "Performed routine maintenance, testing and recovery of critical data and systems backups",
+        "Edited and published more than 12 IT security policies",
+        "Assisted IT Manager with current department projects"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "GenCyber Camp",
+      "website": "https://gencyber-hi.org",
+      "position": "Camp Volunteer",
+      "startDate": "2018-04-07",
+      "endDate": "2018-04-10",
+      "summary": "Aiding students in cyber security projects.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Work directly with students in developing their cyber security skills",
+        "Suppot classroom activities such as learning CLI tools and digital forensics"
       ]
     },
     {
@@ -88,24 +124,23 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, Electronic Frontier Foundation, 2020-Present",
+        "Associate Member, IEEE Student Branch, 2020-Present",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Eagle Scout",
+      "date": "2018",
+      "awarder": "Boy Scouts of America",
+      "summary": "Eagle Scout is the highest achievement or rank attainable in the Scouts BSA program of the Boy Scouts of America. Since its inception in 1911, only four percent of Scouts have earned this rank after a lengthy review process."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Outstanding Chemistry Student",
+      "date": "2018",
+      "awarder": "American Chemical Society",
+      "summary": ""
     }
   ],
   "references": [
